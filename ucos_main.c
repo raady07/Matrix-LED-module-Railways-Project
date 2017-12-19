@@ -3,14 +3,9 @@
 *                                               uC/OS-II
 *                                         The Real-Time Kernel
 *
-*                               (c) Copyright 2006, Micrium, Weston, FL
-*                                          All Rights Reserved
-*
-*
 *                                      Microchip Application Code
 *
 * File : APP.C
-* By   : Eric Shufo
 *********************************************************************************************************
 */
 

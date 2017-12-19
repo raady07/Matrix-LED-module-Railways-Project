@@ -3,13 +3,7 @@
 *                                               Microchip PIC33
 *                                            Board Support Package
 *
-*                                                    Micrium
-*                                    (c) Copyright 2005, Micrium, Weston, FL
-*                                              All Rights Reserved
-*
-*
-* File : controller.h.H
-* By   : Eric Shufro
+*                                             
 *********************************************************************************************************
 */
 

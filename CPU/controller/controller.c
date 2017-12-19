@@ -3,14 +3,7 @@
 *                                             Microchip dsPIC33FJ
 *                                            Board Support Package
 *
-*                                                   Micrium
-*                                    (c) Copyright 2005, Micrium, Weston, FL
-*                                              All Rights Reserved
-*
-*
-* File : BSP.C
-* By   : Eric Shufro
-*********************************************************************************************************
+*                                                *********************************************************************************************************
 */
 
 #include <includes.h>

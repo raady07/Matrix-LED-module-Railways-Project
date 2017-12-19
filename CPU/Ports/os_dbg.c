@@ -4,13 +4,6 @@
 *                                         The Real-Time Kernel
 *                                          DEBUGGER CONSTANTS
 *
-*                             (c) Copyright 1992-2006, Micrium, Weston, FL
-*                                          All Rights Reserved
-*
-*
-* File      : OS_DBG.C
-* Version   : V1.70
-* By        : Jean J. Labrosse
 *********************************************************************************************************
 */
 
